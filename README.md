@@ -1,29 +1,50 @@
-# Xin chào, tôi là Vũ HỒng Hải 👋
+<!-- Hãy copy toàn bộ nội dung này và dán vào file README.md trong kho lưu trữ trùng tên với username của bạn trên GitHub -->
 
-Tôi là một Lập trình viên Full-Stack và sinh viên CNTT sẽ tốt nghiệp vào cuối năm 2026, đam mê xây dựng các hệ thống web mạnh mẽ, khám phá AI Operations và phát triển game.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=250&section=header&text=Vũ%20Hồng%20Hải&fontSize=70&fontAlignY=35&fontColor=ffffff&desc=Chào%20mừng%20đến%20với%20không%20gian%20của%20tôi&descAlignY=62&descAlign=50&descSize=22&animation=twinkling" alt="Header" />
+</div>
 
-## 🚀 Về Tôi
-- 🔭 Hiện tại, tôi đang làm việc với các nền tảng web full-stack và khám phá mô hình kinh doanh C2C.
-- 🌱 Tôi đang tìm hiểu sâu hơn về **AIOps**, kỹ sư prompt (prompt engineering) và tự động hóa quy trình làm việc.
-- 🏗️ Tôi thích sử dụng container cho môi trường làm việc của mình và lưu trữ các dịch vụ bằng **Docker**.
-- 🎮 Trong thời gian rảnh rỗi, tôi thích phát triển game 2D (thể loại Survivor-like & game câu cá) và tối ưu hóa hiệu suất mạng để chơi game.
-- 📫 Cách liên hệ với tôi: [Email hoặc URL LinkedIn của bạn]
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=40&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&height=80&lines=Vũ+Hồng+Hải;Software+Engineer;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🛠️ Ngôn Ngữ & Công Cụ
+## 🌌 Về Tôi
 
-**Ngôn Ngữ & Framework**
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+> **Mô tả của bạn:** *(Hãy xóa dòng này và viết phần giới thiệu về bản thân bạn tại đây, ví dụ: định hướng phát triển, đam mê, hoặc câu quote yêu thích của bạn...)*
 
-**Game Dev & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+- 🔭 Hiện tại đang làm việc và phát triển tại: **[Tên Công ty / Trường học]**
+- 🌱 Đang học hỏi thêm về: **[Công nghệ mới bạn đang học]**
+- 💬 Có thể hỏi tôi về: **[Các ngôn ngữ/kỹ năng bạn tự tin nhất]**
+- 📫 Cách liên hệ với tôi: **[Email hoặc Link LinkedIn của bạn]**
 
+---
+
+## 🛠️ Công Nghệ & Công Cụ
+
+<div align="center">
+  <!-- Bạn có thể thêm bớt icon bằng cách thay đổi giá trị của tham số "i=" -->
+  <!-- Tham khảo danh sách icon tại: https://skillicons.dev/ -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,dotnet,cs,html,css,mysql,git,github,vscode,docker,figma" alt="Skills" />
+</div>
+
+---
+
+## 🤝 Liên Kết & Mạng Xã Hội
+
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=120&section=footer" alt="Footer" />
+</div>
