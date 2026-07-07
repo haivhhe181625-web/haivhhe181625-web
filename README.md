@@ -14,10 +14,11 @@
 
 > **Mô tả của bạn:** *(Hãy xóa dòng này và viết phần giới thiệu về bản thân bạn tại đây, ví dụ: định hướng phát triển, đam mê, hoặc câu quote yêu thích của bạn...)*
 
-- 🔭 Hiện tại đang làm việc và phát triển tại: **[Tên Công ty / Trường học]**
-- 🌱 Đang học hỏi thêm về: **[Công nghệ mới bạn đang học]**
-- 💬 Có thể hỏi tôi về: **[Các ngôn ngữ/kỹ năng bạn tự tin nhất]**
-- 📫 Cách liên hệ với tôi: **[Email hoặc Link LinkedIn của bạn]**
+- 🔭 Hiện tại, tôi đang làm việc với các nền tảng web full-stack và khám phá mô hình kinh doanh C2C.
+- 🌱 Tôi đang tìm hiểu sâu hơn về **AIOps**, kỹ sư prompt (prompt engineering) và tự động hóa quy trình làm việc.
+- 🏗️ Tôi thích sử dụng container cho môi trường làm việc của mình và lưu trữ các dịch vụ bằng **Docker**.
+- 🎮 Trong thời gian rảnh rỗi, tôi thích phát triển game 2D (thể loại Survivor-like & game câu cá) và tối ưu hóa hiệu suất mạng để chơi game.
+- 📫 Cách liên hệ với tôi: haitx2004@gmail.com
 
 ---
 
