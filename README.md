@@ -1,4 +1,4 @@
-# Xin chào, tôi là [Tên của bạn] 👋
+# Xin chào, tôi là Vũ HỒng Hải 👋
 
 Tôi là một Lập trình viên Full-Stack và sinh viên CNTT sẽ tốt nghiệp vào cuối năm 2026, đam mê xây dựng các hệ thống web mạnh mẽ, khám phá AI Operations và phát triển game.
 
@@ -27,11 +27,3 @@ Tôi là một Lập trình viên Full-Stack và sinh viên CNTT sẽ tốt nghi
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-## 📈 Thống Kê GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haivhhe181625-web&show_icons=true&theme=radium" alt="Thống Kê GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haivhhe181625-web&layout=compact&theme=radium" alt="Ngôn Ngữ Hàng Đầu" />
-</p>
